@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">نور</string>
+    <string name="notification_channel_prayer_name">مواقيت الصلاة</string>
+    <string name="notification_channel_prayer_desc">تنبيهات دخول أوقات الصلاة والتذكير قبلها</string>
+    <string name="notification_channel_reminder_name">التذكيرات اليومية</string>
+    <string name="notification_channel_reminder_desc">تذكيرات أذكار الصباح والمساء والقرآن والتسبيح</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Noor</string>
+    <string name="notification_channel_prayer_name">Prayer Times</string>
+    <string name="notification_channel_prayer_desc">Alerts for daily prayer times and pre-prayer reminders</string>
+    <string name="notification_channel_reminder_name">Daily Reminders</string>
+    <string name="notification_channel_reminder_desc">Reminders for Morning/Evening Adhkar, Quran reading, and Tasbih</string>
+</resources>

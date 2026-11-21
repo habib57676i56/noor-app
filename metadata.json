@@ -1,0 +1,6 @@
+{
+  "name": "Noor",
+  "description": "Comprehensive Islamic companion app featuring accurate offline prayer times, Holy Quran reader with Uthmani script and tafsir, authentic Adhkar library, electronic Tasbih, Qibla compass, Hijri calendar, notifications, and personal worship statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
